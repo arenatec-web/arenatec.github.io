@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Dominion Node</title><desc id="desc">Mòdul de captura de zona amb identificador lluminós i lector d'equip.</desc>
+  <rect width="720" height="420" rx="26" fill="#111817"/><path d="M128 294 233 106h254l105 188-74 57H202z" fill="#2b3430" stroke="#718078" stroke-width="4"/><path d="m232 106 105 188m150-188L382 294" stroke="#435049" stroke-width="3"/>
+  <rect x="264" y="135" width="192" height="110" rx="12" fill="#0d1312" stroke="#64736a" stroke-width="3"/><text x="360" y="222" fill="#c5f36a" font-family="Arial" font-size="92" font-weight="700" text-anchor="middle">A</text>
+  <rect x="304" y="268" width="112" height="35" rx="17" fill="#c5f36a"/><text x="360" y="291" fill="#1a221d" font-family="Arial" font-size="14" font-weight="700" letter-spacing="2" text-anchor="middle">CAPTURE</text>
+  <path d="M117 310h486" stroke="#c5f36a" stroke-width="2" stroke-dasharray="5 10" opacity=".6"/><circle cx="127" cy="310" r="6" fill="#c5f36a"/><circle cx="593" cy="310" r="6" fill="#c5f36a"/>
+  <text x="360" y="372" fill="#aab4ac" font-family="Arial" font-size="14" letter-spacing="3" text-anchor="middle">CAPTURE ZONE / A–P</text>
+</svg>

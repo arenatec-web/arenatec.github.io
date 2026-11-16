@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+  <title id="title">Arenatec — logotip per a fons clars</title><desc id="desc">L'emblema de xip i comunicacions de la marca al costat del nom Arenatec, en versió per a fons clars.</desc>
+  <g fill="none" stroke="#52752f" stroke-width="3.2" stroke-linecap="round"><path d="M53 55 76 78M127 55 104 78M53 125 76 102M127 125 104 102"/></g>
+  <g fill="#52752f"><rect x="80" y="80" width="20" height="20"/><circle cx="82" cy="76" r="1.6"/><circle cx="88" cy="76" r="1.6"/><circle cx="94" cy="76" r="1.6"/><circle cx="100" cy="76" r="1.6"/><circle cx="82" cy="104" r="1.6"/><circle cx="88" cy="104" r="1.6"/><circle cx="94" cy="104" r="1.6"/><circle cx="100" cy="104" r="1.6"/><circle cx="76" cy="82" r="1.6"/><circle cx="76" cy="88" r="1.6"/><circle cx="76" cy="94" r="1.6"/><circle cx="76" cy="100" r="1.6"/><circle cx="104" cy="82" r="1.6"/><circle cx="104" cy="88" r="1.6"/><circle cx="104" cy="94" r="1.6"/><circle cx="104" cy="100" r="1.6"/></g><circle cx="90" cy="90" r="2.5" fill="none"/>
+  <text x="202" y="108" fill="#18211c" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="750" letter-spacing="4">ARENA<tspan fill="#52752f">TEC</tspan></text>
+</svg>

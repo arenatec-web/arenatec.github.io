@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Dominion Score</title><desc id="desc">Panell amb puntuació en directe per a quatre equips i indicador de zones.</desc>
+  <rect width="720" height="420" rx="26" fill="#111817"/><rect x="24" y="24" width="672" height="372" rx="18" fill="#19211f" stroke="#46534d" stroke-width="2"/>
+  <text x="48" y="66" fill="#9da79f" font-family="Arial" font-size="15" letter-spacing="3">DOMINION / LIVE SCORE</text>
+  <g font-family="Arial" font-weight="700" text-anchor="middle">
+    <rect x="48" y="94" width="296" height="112" rx="12" fill="#243641"/><text x="78" y="129" fill="#91b6d1" font-size="13" text-anchor="start">TEAM 01</text><text x="196" y="188" fill="#d7efff" font-size="70">68</text>
+    <rect x="376" y="94" width="296" height="112" rx="12" fill="#442d2e"/><text x="406" y="129" fill="#e4a0a0" font-size="13" text-anchor="start">TEAM 02</text><text x="524" y="188" fill="#ffe1e1" font-size="70">51</text>
+    <rect x="48" y="224" width="296" height="112" rx="12" fill="#2b3b32"/><text x="78" y="259" fill="#a6d6b3" font-size="13" text-anchor="start">TEAM 03</text><text x="196" y="318" fill="#dcffe5" font-size="70">37</text>
+    <rect x="376" y="224" width="296" height="112" rx="12" fill="#443c27"/><text x="406" y="259" fill="#dec987" font-size="13" text-anchor="start">TEAM 04</text><text x="524" y="318" fill="#fff2c9" font-size="70">24</text>
+  </g>
+  <text x="48" y="372" fill="#aab4ac" font-family="Arial" font-size="13" letter-spacing="2">CAPTURED NODES</text>
+  <g font-family="Arial" font-size="13" font-weight="700" text-anchor="middle"><circle cx="242" cy="368" r="14" fill="#92c6e5"/><text x="242" y="373" fill="#142027">A</text><circle cx="280" cy="368" r="14" fill="#d98484"/><text x="280" y="373" fill="#271819">B</text><circle cx="318" cy="368" r="14" fill="#8dc49d"/><text x="318" y="373" fill="#142119">C</text><circle cx="356" cy="368" r="14" fill="#ddc36d"/><text x="356" y="373" fill="#282311">D</text><circle cx="394" cy="368" r="14" fill="#92c6e5"/><text x="394" y="373" fill="#142027">E</text><circle cx="432" cy="368" r="14" fill="#d98484"/><text x="432" y="373" fill="#271819">F</text><circle cx="470" cy="368" r="14" fill="#8dc49d"/><text x="470" y="373" fill="#142119">G</text><circle cx="508" cy="368" r="14" fill="#ddc36d"/><text x="508" y="373" fill="#282311">H</text></g>
+</svg>

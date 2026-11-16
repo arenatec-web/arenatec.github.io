@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Dominion Beacon</title><desc id="desc">Indicador circular il·luminat que identifica visualment l'equip que controla una zona.</desc>
+  <rect width="720" height="420" rx="26" fill="#111817"/><circle cx="360" cy="202" r="142" fill="#1b2521" stroke="#3b4941" stroke-width="30"/><circle cx="360" cy="202" r="123" fill="none" stroke="#c5f36a" stroke-width="15" stroke-dasharray="6 5"/><circle cx="360" cy="202" r="96" fill="none" stroke="#d3f99a" stroke-width="4" opacity=".35"/><circle cx="360" cy="202" r="67" fill="#202a25" stroke="#58675e" stroke-width="2"/>
+  <text x="360" y="194" fill="#f3f3e9" font-family="Arial" font-size="21" font-weight="700" letter-spacing="4" text-anchor="middle">NODE</text><text x="360" y="235" fill="#c5f36a" font-family="Arial" font-size="38" font-weight="700" text-anchor="middle">A</text>
+  <path d="M111 371h498" stroke="#344039" stroke-width="2"/><circle cx="268" cy="371" r="7" fill="#92c6e5"/><circle cx="329" cy="371" r="7" fill="#d98484"/><circle cx="390" cy="371" r="7" fill="#8dc49d"/><circle cx="451" cy="371" r="7" fill="#ddc36d"/><text x="360" y="397" fill="#aab4ac" font-family="Arial" font-size="12" letter-spacing="2" text-anchor="middle">TEAM COLOUR / LIVE ZONE STATUS</text>
+</svg>

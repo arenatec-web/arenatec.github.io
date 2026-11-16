@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Arenatec</title>
+  <desc id="desc">Xip central verd amb pins i quatre traços diagonals sobre fons transparent, adaptat del símbol històric sense les lletres B i P.</desc>
+  <g fill="none" stroke="#c5f36a" stroke-width="3.2" stroke-linecap="round"><path d="M43 45 66 68M117 45 94 68M43 115 66 92M117 115 94 92"/></g>
+  <g fill="#c5f36a">
+    <rect x="70" y="70" width="20" height="20"/>
+    <circle cx="72" cy="66" r="1.6"/><circle cx="78" cy="66" r="1.6"/><circle cx="84" cy="66" r="1.6"/><circle cx="90" cy="66" r="1.6"/>
+    <circle cx="72" cy="94" r="1.6"/><circle cx="78" cy="94" r="1.6"/><circle cx="84" cy="94" r="1.6"/><circle cx="90" cy="94" r="1.6"/>
+    <circle cx="66" cy="72" r="1.6"/><circle cx="66" cy="78" r="1.6"/><circle cx="66" cy="84" r="1.6"/><circle cx="66" cy="90" r="1.6"/>
+    <circle cx="94" cy="72" r="1.6"/><circle cx="94" cy="78" r="1.6"/><circle cx="94" cy="84" r="1.6"/><circle cx="94" cy="90" r="1.6"/>
+  </g>
+  <circle cx="80" cy="80" r="2.5" fill="none"/>
+</svg>
