@@ -1,2 +1,12 @@
 /AGENTS.md
 /specs
+!/specs/
+/specs/*
+!/specs/027-proporcions-reals-hero/
+!/specs/027-proporcions-reals-hero/spec.md
+!/specs/028-clauers-rfid-al-node-al-hero/
+!/specs/028-clauers-rfid-al-node-al-hero/spec.md
+!/specs/029-clauer-rfid-variants-color/
+!/specs/029-clauer-rfid-variants-color/spec.md
+!/specs/030-clauer-rfid-al-calculador/
+!/specs/030-clauer-rfid-al-calculador/spec.md

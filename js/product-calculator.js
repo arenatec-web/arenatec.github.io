@@ -21,7 +21,7 @@
         const minimumPrice = Number(input.dataset.minimumPrice);
         const minimumQuantity = Number(input.dataset.minimumQuantity);
         let discountRate = 0;
-        if (quantity >= 2) {
+        if (!input.hasAttribute('data-no-discount') && quantity >= 2) {
           const maximumDiscountRate = 1 - minimumPrice / unitPrice;
           const progress = Math.min(1, (quantity - 2) / (minimumQuantity - 2));
           discountRate = 0.05 + progress * (maximumDiscountRate - 0.05);
