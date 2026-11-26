@@ -11,7 +11,7 @@ Presentar Dominion com a projecte informatiu en fase d'estudi d'interès, i cons
 - Retirar el calculador, els imports i les condicions d'enviament de les quatre pàgines principals; presentar el projecte i el contacte en to informatiu en català, castellà i anglès. Ometre el paràgraf sobre la fase d'estudi d'interès a la secció de contacte.
 - Conservar el calculador complet, els productes, les imatges i les escales de descompte en pàgines estàtiques a `preus/`, amb versions equivalents en els tres idiomes i castellà per defecte.
 - No enllaçar les pàgines del calculador des del web públic; afegir-hi una indicació de no indexació. L'adreça continua sent pública i no proporciona autenticació ni confidencialitat.
-- Mantenir els recursos locals, accessibilitat, funcionament sense emmagatzematge, i els preus disponibles sense JavaScript. Indicar que les xifres són orientatives i no inclouen IVA.
+- Mantenir els recursos locals, accessibilitat, funcionament sense emmagatzematge, i els preus disponibles sense JavaScript. No mostrar el text introductori que identifica els preus com a orientatius i sense IVA.
 - No publicar textos legals que depenguin de dades del responsable o pràctiques encara no confirmades.
 
 ## Criteris d'acceptació
